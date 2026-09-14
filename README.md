@@ -77,4 +77,5 @@ The objective of this project is to understand how tourism, travel costs, and de
 
 ## Author
 Group
+
 Year: 2026
