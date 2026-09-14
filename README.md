@@ -76,7 +76,5 @@ The objective of this project is to understand how tourism, travel costs, and de
 `travel_tourism_80_countries_2026.csv` – Dataset used for the analysis.
 
 ## Author
-
-Student Data Analysis Project
-
+Group
 Year: 2026
