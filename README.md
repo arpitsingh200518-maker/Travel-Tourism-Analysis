@@ -53,7 +53,6 @@ The project includes:
 
 The project includes different types of graphs, such as:
 
-- Bar charts
 - Line charts
 - Scatter plots
 - Heatmaps
